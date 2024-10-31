@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sell Services\n"
+"POT-Creation-Date: 2018-06-08 12:08+0200\n"
+"PO-Revision-Date: 2016-01-15 14:50+0100\n"
+"Last-Translator: IshYoBoy.com <hello@ishyoboy.com>\n"
+"Language-Team: IshYoBoy.com <hello@ishyoboy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;_;__;_e;gettext;gettext_noop;_x;_ex;_n;_nx;_n_noop;"
+"_nx_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: _gsdata_\n"
+"X-Poedit-SearchPathExcluded-1: js/bower\n"
+
+#: admin/parts/about.php:12
+msgid "Blackbell simplifies selling, marketing and operations."
+msgstr ""
+
+#: admin/parts/about.php:13
+msgid ""
+"It is your happy place: manage every area of your business, making it agile, "
+"effortless to run, and more profitable."
+msgstr ""
+
+#: admin/parts/about.php:14
+msgid ""
+"Blackbell offers your customers a faster booking experience while giving you "
+"a workspace where orders are organized and accessible."
+msgstr ""
+
+#: admin/parts/about.php:15
+msgid ""
+"A single platform for taking orders, managing calendars, accepting payments, "
+"organizing service delivery, and most of all promoting your services. Use "
+"Blackbell promotional tools to create coupons, email previous customers, "
+"create influencers promo codes and sell via marketplaces."
+msgstr ""
+
+#: admin/parts/about.php:16
+msgid "No credit card required - 14-day free trial."
+msgstr ""
+
+#: admin/parts/about.php:18
+msgid "Learn More"
+msgstr ""
+
+#: admin/parts/about.php:19
+msgid "Create an Account"
+msgstr ""
+
+#: admin/parts/tabs.php:10 sell-services.php:124
+msgid "About"
+msgstr ""
+
+#: admin/parts/tabs.php:11 sell-services.php:135
+msgid "Settings"
+msgstr ""
+
+#: admin/parts/welcome.php:15
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed %1$s version %2$s. It is "
+"ready to serve you with its full potential. There are just a few more steps "
+"necessary to finalize the setup of the plugin and to learn more about its "
+"features."
+msgstr ""
+
+#: sell-services.php:183
+msgid "Sell Services"
+msgstr ""
+
+#: sell-services.php:183
+msgid "Sell Services Plugin"
+msgstr ""
+
+#: sell-services.php:203
+msgid "Blackbell App URL"
+msgstr ""
+
+#: sell-services.php:210
+msgid "All links to this URL will be opened in a pop-up modal."
+msgstr ""
+
+#: sell-services.php:211
+msgid "E.g. https://myappid.blackbell.com"
+msgstr ""
+
+#: sell-services.php:349
+#, php-format
+msgid ""
+"%1$s plugin is not set up correctly. Continue to %2$s to finalize setup."
+msgstr ""
+
+#: sell-services.php:351
+msgid "Plugin Settings Page"
+msgstr ""

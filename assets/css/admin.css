@@ -1,0 +1,44 @@
+.about-wrap .wp-badge {
+    background-image: url(../images/logo.png);
+    background-size: 80px 106px;
+    background-color: transparent;
+    color: #303030;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    text-indent: 200%;
+    overflow: hidden;
+}
+
+.about-wrap .about-text {
+    min-height: 100px;
+}
+
+.about-wrap div.updated {
+    display: block !important;
+    margin-right: 180px;
+    margin-top: 15px;
+}
+
+.wp-badge:hover {
+    text-decoration: none;
+}
+
+.nav-tab-active:focus {
+    box-shadow: none;
+}
+
+.ish-tab-pane {
+    display: none;
+}
+
+.ish-is-active {
+    display: block;
+}
+
+@media only screen and (max-width: 500px) {
+    .about-wrap div.updated  {
+        margin-right: 0;
+    }
+}
+
